@@ -1,0 +1,8 @@
+# Node.js
+node_modules
+
+# Database
+.dbdata
+
+# VSC plugins
+.history
